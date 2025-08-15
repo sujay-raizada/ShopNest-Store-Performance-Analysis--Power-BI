@@ -27,5 +27,4 @@ To analyze e-commerce order data and build an interactive dashboard for tracking
 <img width="1323" height="736" alt="image" src="https://github.com/user-attachments/assets/dadb65c6-192b-4b99-a7b8-8d63c88801c7" />
 
 
-## 📂 Files Included
-- `ecommerce_sales_dashboard.pbix` – Power BI dashboard file    
+## 📂 Files Included   
